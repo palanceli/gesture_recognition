@@ -4,7 +4,7 @@
 #
 #-------------------------------------------------
 
-QT       += core gui
+QT       +=  widgets core gui
 
 TARGET = Haji_Gesture_Demo
 TEMPLATE = app
